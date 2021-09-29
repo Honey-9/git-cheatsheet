@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="./Git&Github.png" />
+  <img src="./Group%202.png" />
 </p>
